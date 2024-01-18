@@ -1,2 +1,4 @@
 # Netflix-clone
-netflix ui
+# netflix simple ui
+## deployed link
+##  https://secretsyed.github.io/Netflix-clone/
